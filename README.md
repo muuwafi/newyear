@@ -6,4 +6,4 @@ Haloo all, Website ini saya buat sekedar gabut aja karena lumayan juga buat ngis
 * Css
 * Javascript
 
-[https://newyear.lyfi.repl.co/]
+[https://s.id/1ZBPS]
