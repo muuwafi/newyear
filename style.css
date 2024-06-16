@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: poppins,sans-serif;
+    scroll-behavior: smooth;
+}
+body, html {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+    height: 100vh;
+    max-width: 72rem;
+    background: #121212;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .content {
+    padding: 0 10px;
+    text-align: center;
+    position: absolute;
+  }
+  
+  h1 {
+    color: #fafafa;
+    font-size: 48px;
+  }
+  p{
+    font-size: 18px;
+    color: #fafafa;
+  }
+  
